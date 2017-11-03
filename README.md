@@ -12,5 +12,5 @@ In case the device has no internet connection, an alert dialog will be displayed
 * The user can simply cancel the dialog and nothing happens  
 
 A broadcast receiver is used in order to determine when the connection state changes  
-For a more thorough overview, make sure to check this [post](http://mobiledevhub.com/2017/11/03/android-fundamentals-network-monitoring/). 
+For a more thorough overview, make sure to check this [post](http://mobiledevhub.com/2017/11/03/android-fundamentals-network-monitoring/).   
 The Kotlin version for this repository can be found [here](https://github.com/MChehab94/Network-Handling-Kotlin)  
